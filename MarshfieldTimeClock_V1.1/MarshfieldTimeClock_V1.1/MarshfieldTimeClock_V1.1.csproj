@@ -152,6 +152,7 @@
     <Content Include="scripts\umd\popper.min.js" />
     <Content Include="SignIn.aspx" />
     <Content Include="StyleSheets\StyleSheet.css" />
+    <Content Include="Tester.aspx" />
     <Content Include="TimeClock.aspx" />
     <Content Include="Web.config" />
     <Content Include="scripts\umd\popper.min.js.map" />
@@ -181,6 +182,13 @@
     </Compile>
     <Compile Include="SignIn.aspx.designer.cs">
       <DependentUpon>SignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tester.aspx.cs">
+      <DependentUpon>Tester.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tester.aspx.designer.cs">
+      <DependentUpon>Tester.aspx</DependentUpon>
     </Compile>
     <Compile Include="TimeClock.aspx.cs">
       <DependentUpon>TimeClock.aspx</DependentUpon>
