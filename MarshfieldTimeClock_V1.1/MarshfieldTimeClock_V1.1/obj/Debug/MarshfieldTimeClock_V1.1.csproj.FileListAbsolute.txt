@@ -97,3 +97,36 @@ S:\CIS\CIS260\Sec 102\UserName\BEERS ANDREW 0736594\github\MarshfieldTimeClockV1
 S:\CIS\CIS260\Sec 102\UserName\BEERS ANDREW 0736594\github\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.csprojResolveAssemblyReference.cache
 S:\CIS\CIS260\Sec 102\UserName\BEERS ANDREW 0736594\github\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.dll
 S:\CIS\CIS260\Sec 102\UserName\BEERS ANDREW 0736594\github\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.pdb
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\ApplicationInsights.config
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\csc.exe
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\System.Collections.Immutable.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\System.Reflection.Metadata.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\vbc.exe
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\VBCSCompiler.exe
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\roslyn\VBCSCompiler.exe.config
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\MarshfieldTimeClock_V1.1.dll.config
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\MarshfieldTimeClock_V1.1.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\MarshfieldTimeClock_V1.1.pdb
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.DependencyCollector.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.Web.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.WindowsServer.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.ApplicationInsights.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.DependencyCollector.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.Web.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.AI.WindowsServer.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.ApplicationInsights.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.csprojResolveAssemblyReference.cache
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.dll
+H:\TimeClock\NewClock\MarshfieldTimeClockV1.1\MarshfieldTimeClock_V1.1\MarshfieldTimeClock_V1.1\obj\Debug\MarshfieldTimeClock_V1.1.pdb

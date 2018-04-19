@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Tester.aspx.cs" Inherits="Tester" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/TimeClockMaster.Master" AutoEventWireup="true" CodeBehind="Tester.aspx.cs" Inherits="MarshfieldTimeClock_V1._1.Tester" %>
 <%@ Import Namespace="System.Data" %>
 <%@ Import Namespace="System.Data.SqlClient" %>
 <%@ Import Namespace="System.Text" %>
