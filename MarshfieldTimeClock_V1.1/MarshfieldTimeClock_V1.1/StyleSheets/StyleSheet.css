@@ -1,0 +1,283 @@
+﻿/*Styles form for every page*/
+#html{
+    background-color: #E0E0E0;
+}
+body {
+    background-color: #E0E0E0;
+    margin:0px;
+}
+.jumbotron {
+    background-color: #1f3576;
+    text-align: center;
+}
+#SchoolName{
+    margin: 0px;
+    font-size: 65px; 
+    font-family: monospace; 
+    font-weight: bold; 
+    color: #E0E0E0; 
+    text-decoration: none; 
+    text-align: center;
+}
+.container-fluid{
+    padding-bottom: 20px;
+}
+.nav.navbar-nav{
+    margin:0;
+    padding: 0;
+    display: inline-block;
+    float: none;
+    width: 459px;
+}
+li{
+    list-style-type: none;
+}
+li a:hover {
+    background-color: #1f3576;
+}
+li a {
+    display: block;
+    font-family: Cooper Std;
+    font-size: 18px;
+    color: #ecf2f9;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 15px;
+    width: 165px;
+}
+#btn-time{
+    margin-right: 10px;
+    font-family: monospace;
+      height: 49px;
+    width: 184px;
+}
+#btn-hours{
+    font-family: monospace;
+    margin-left: 10px;
+    height: 49px;
+    width: 184px;
+}
+#InteractivePage{
+    background-color: #E0E0E0;
+}
+#navigation{
+    border-bottom: 8px double #50504E; 
+    height: 30px; 
+    text-align: center;  
+    font-family: monospace; 
+    background-color: #3f69e2;
+}
+/*End of Every Page Styles*/
+
+/*Sign in Page*/
+#WholeSignInPage{
+    text-align: center;
+}
+#SignInSchoolLogo{
+    text-align: center; 
+    height: 150px; 
+    width: 150px;
+}
+#SignInLabel{
+    border-width: 8px; 
+    border-color: #2D2D2C; 
+    font-family: monospace; 
+    font-size: large; 
+    border-left-style: none; 
+    border-bottom-style: double;
+}
+/*end of Sign in Page*/
+
+/*time Clock Page*/
+#timeClock{
+    
+}
+#btnTimeClock{
+    background-color: #3F69E2; 
+    font-family: monospace;
+    font-weight: bold; 
+    color:#E0E0E0; 
+    Font-Size: 23px; 
+    Width: 215px; 
+    border: none;
+    Height: 30px; 
+}
+#btnHoursWorked{
+    background-color: #3F69E2; 
+    font-family: monospace;
+    font-weight: bold; 
+    color:#E0E0E0; 
+    Font-Size: 23px; 
+    Width: 215px; 
+    border: none;
+    Height: 30px; 
+}
+#timeClockHeader{
+    text-align: center;
+    font-family: monospace; 
+    font-size: 45px; 
+    font-weight: bold; 
+    color: #50504E; 
+    font-variant: normal; 
+    text-transform: uppercase; 
+    text-decoration: none; 
+    font-style: italic;
+}
+#Time{
+    text-align: center; 
+    font-size: medium;
+}
+#txtBxDisplayTime{
+    text-align: center; 
+    Font-Size: 30px;     
+    Border: None; 
+    Width: 200px; 
+    background-color: #E0E0E0; 
+    font-family: monospace;
+}
+#txtBxDisplayDay{
+    text-align: center; 
+    Font-Size: 30px;
+    Border: None; 
+    Width: 500px; 
+    background-color: #E0E0E0; 
+    Font-family:monospace;
+}
+#dropDown{
+    text-align: Center;
+    Font-family: monospace; 
+    Font-Size: X-Large;
+}
+#ClockInOut{
+    text-align: center;
+    padding-bottom: 50px;
+}
+#btnChangeRole{
+    background-color: #B9C8F4;
+    border: none;
+    font-family: monospace;
+    color: #50504E;
+    height: 23px;
+    width: 103px;
+}
+#btnClockIn{
+    background-color:#50504E; 
+    font-weight: bold; 
+    Font-family: "monospace";
+    Font-Size: 22px;
+    Width: 150px;
+    Border: None;
+    color:#E0E0E0; 
+    Height: 30px; 
+    Border-Color: #E0E0E0;
+}
+#btnClockOut{
+    background-color:#50504E; 
+    font-weight: bold; 
+    Font-family: "monospace";
+    Font-Size: 22px;
+    Width: 150px;
+    Border: None;
+    color:#E0E0E0; 
+    Height: 30px; 
+    Border-Color: #E0E0E0;
+}
+/*end of Time Clock Page*/
+
+/*Hours Worked Page*/
+#HoursWorked{
+    text-align: center; 
+}
+#HoursWorkedTable{
+    margin: auto;
+    width: 53%;
+}
+.auto-style1 {
+    height: 23px;
+    width: 69px;
+    border: thin solid #666666;
+}
+.auto-style2 {
+    width: 42px;
+    border: thin solid #666666;
+}
+.auto-style3 {
+    height: 23px;
+    width: 42px;
+    border: thin solid #666666;
+}
+.auto-style4 {
+    width: 65px;
+    border: thin solid #666666;
+}
+.auto-style5 {
+    height: 23px;
+    width: 65px;
+    border: thin solid #666666;
+}
+.auto-style6 {
+    width: 69px;
+    border: thin solid #666666;
+}
+.TotalCol1{
+    border: thin solid #666666; 
+    background-color: #D5DEF9; 
+}
+.TotalCol2{
+    border: thin solid #666666; 
+    background-color: #D5DEF9; 
+}
+.TotalCol3{
+    border: thin solid #666666; 
+    background-color: #D5DEF9; 
+}
+.TotalCol4{
+    border: thin solid #666666; 
+    background-color: #D5DEF9; 
+}
+.TotalCol5{
+    border: thin solid #666666; 
+    background-color: #D5DEF9; 
+}
+#HoursWorkedHeader{
+    text-align: center;
+    font-family: monospace; 
+    font-size: 45px; 
+    font-weight: bold; 
+    color: #50504E; 
+    font-variant: normal; 
+    text-transform: uppercase; 
+    text-decoration: none; 
+    font-style: italic;
+}
+#HoursWorkedButtons{
+    text-align: center;
+}
+#btnBack{
+    background-color: #1F3576;
+    font-weight: bold;
+    font-family: monospace;
+    color: #E0E0E0;
+    height: 31px;
+    width: 170px;
+}
+#btnPrevious{
+    background-color: #1F3576;
+    font-weight: bold;
+    font-family: monospace;
+    color: #E0E0E0;
+    height: 31px;
+    width: 170px;
+}
+/*End of Hours Worked Page*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: darkslategray;*/
+}
+
+li {
+    float: left;
+}
