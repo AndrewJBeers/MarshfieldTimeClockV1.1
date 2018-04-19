@@ -61,7 +61,7 @@
             <br />
             <br />
 
-            <asp:Button ID="btnSignIn" runat="server" PostBackUrl="~/TimeClock.aspx" BackColor="#2D2D2C" Font-Names="monospace" ForeColor="#7391EA" Text="Sign In" Font-Size="20px" Font-Bold="True" Font-Italic="True" Width="150px" />
+            <asp:Button ID="btnSignIn" runat="server" PostBackUrl="~/TimeClock.aspx" BackColor="#2D2D2C" Font-Names="monospace" ForeColor="#7391EA" Text="Sign In" Font-Size="20px" Font-Bold="True" Font-Italic="True" Width="150px" OnClick="btnSignIn_Click" />
             <br />
             <br />
 

@@ -41,7 +41,7 @@
             </asp:DropDownList>
             <br />
             <br />
-            <asp:Button ID="btnChangeRole" runat="server" Text="Change Role" />
+            <asp:Button ID="btnChangeRole" runat="server" Text="Change Role" OnClick="btnChangeRole_Click" />
             <br />
             <br />
         </div>

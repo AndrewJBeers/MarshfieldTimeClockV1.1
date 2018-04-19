@@ -11,10 +11,24 @@ namespace MarshfieldTimeClock_V1._1.App_Code
     {
         
         private SqlConnection conn;
+        
+        
+        /// check if clocked in * no clock out on last clock in older than today
+        /// post clock in
+        /// post clock out
+        /// post role change* combination of clock in clock out
+        /// check hours worked over current month payperiod
+        /// 
+
+
+
+        /// <summary>
+        /// Database connection
+        ///     gets connection, opens and returns connection
+        /// </summary>
+        /// <returns></returns>
         public SqlConnection getConnection()
         {
-            
-            //Connect to the db
             string connStr = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
             conn = new SqlConnection(connStr);
             conn.Open();
@@ -22,6 +36,11 @@ namespace MarshfieldTimeClock_V1._1.App_Code
         }
 
 
+        /// <summary>
+        /// Creates a command
+        /// </summary>
+        /// <param name="query"></param>
+        /// <returns></returns>
         public SqlDataReader getReader(string query)
         {
             // Create a command
@@ -35,6 +54,9 @@ namespace MarshfieldTimeClock_V1._1.App_Code
             return reader;
         }
 
+        /// <summary>
+        /// Database Connection close
+        /// </summary>
         public void closeConnection()
         {
             if (conn != null && conn.State == System.Data.ConnectionState.Open)
